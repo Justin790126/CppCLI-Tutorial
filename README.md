@@ -1,20 +1,20 @@
 # Cpp/CLI Tutorial
 ## Summary
-* [Introduction](https://zh.wikipedia.org/wiki/C%2B%2B/CLI)
-* Develop environment
-    * Environment
+1. [Introduction](https://zh.wikipedia.org/wiki/C%2B%2B/CLI)
+2. Develop environment
+    * [Environment](/doc/Ch1/1-1.md)
     * First GUI
-* Object notation
+3. Object notation
     * Reference
-* System::String
+4. System::String
     * Introduction
-* GUI components
+5. GUI components
     * Property 
     * Naming style
-* Customization
+6. Customization
     * Custom control
     * Custom property
-* Debug
+7. Debug
     * Create your own Logger
-* External Library
+8. External Library
     * How to use C# library
