@@ -5,7 +5,7 @@
     * [Environment](/doc/Ch2/2-1.md)
     * [First GUI](/doc/Ch2/2-2.md)
 3. Object notation
-    * Reference
+    * [Object reference](/doc/Ch3/3-1.md)
 4. System::String
     * Introduction
 5. GUI components
