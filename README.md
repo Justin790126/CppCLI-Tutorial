@@ -2,8 +2,8 @@
 ## Summary
 1. [Introduction](https://zh.wikipedia.org/wiki/C%2B%2B/CLI)
 2. Develop environment
-    * [Environment](/doc/Ch1/1-1.md)
-    * [First GUI](/doc/Ch1/1-2.md)
+    * [Environment](/doc/Ch2/2-1.md)
+    * [First GUI](/doc/Ch2/2-2.md)
 3. Object notation
     * Reference
 4. System::String
