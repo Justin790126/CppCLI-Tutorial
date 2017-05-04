@@ -6,15 +6,15 @@
     * [First GUI](/doc/Ch2/2-2.md)
 3. Object notation
     * [Object reference](/doc/Ch3/3-1.md)
-4. System::String
-    * Introduction
-5. GUI components
+4. Debug
+    * Debug tools
+    * Create your own Logger
+5. System::String
+6. GUI components
     * Property 
     * Naming style
-6. Customization
+7. Customization
     * Custom control
     * Custom property
-7. Debug
-    * Create your own Logger
 8. External Library
     * How to use C# library
