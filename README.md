@@ -7,7 +7,7 @@
 3. Object notation
     * [Object reference](/doc/Ch3/3-1.md)
 4. Debug
-    * Debug tools
+    * [Debug tools](/doc/Ch4/4-1.md)
     * Create your own Logger
 5. System::String
 6. GUI components
