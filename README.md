@@ -8,7 +8,7 @@
     * [Object reference](/doc/Ch3/3-1.md)
 4. Debug
     * [Debug tools](/doc/Ch4/4-1.md)
-    * Create your own Logger
+    * [Create your own Logger](/doc/Ch4/4-2.md)
 5. System::String
 6. GUI components
     * Property 
