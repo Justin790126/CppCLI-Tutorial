@@ -1,4 +1,4 @@
-# Cpp/CLI Tutorial
+# Cpp/CLR(Cpp/CLI) Tutorial
 ## Summary
 1. [Introduction](https://zh.wikipedia.org/wiki/C%2B%2B/CLI)
 2. [Develop environment](/doc/Ch2/2-0.md)
@@ -9,7 +9,7 @@
 4. Debug
     * [Debug tools](/doc/Ch4/4-1.md)
     * [Create your own Logger](/doc/Ch4/4-2.md)
-5. System::String
+    * [Combine with System::String](/doc/Ch4/4-3.md)
 6. GUI components
     * Property 
     * Naming style
