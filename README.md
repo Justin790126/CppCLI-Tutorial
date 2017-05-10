@@ -10,11 +10,12 @@
     * [Debug tools](/doc/Ch4/4-1.md)
     * [Create your own Logger](/doc/Ch4/4-2.md)
     * [Combine with System::String](/doc/Ch4/4-3.md)
-6. GUI components
+5. GUI components
+    * [Add components by toolbox ](/doc/Ch5/5-1.md)
     * Property 
     * Naming style
-7. Customization
+6. Customized components
     * Custom control
     * Custom property
-8. External Library
+7. External Library
     * How to use C# library
