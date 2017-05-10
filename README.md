@@ -1,5 +1,8 @@
 # Cpp/CLR(Cpp/CLI) Tutorial
 ## Summary
+
+[Style guide](/doc/CppCLIstyleGuide.md)
+
 1. [Introduction](https://zh.wikipedia.org/wiki/C%2B%2B/CLI)
 2. [Develop environment](/doc/Ch2/2-0.md)
     * [Environment](/doc/Ch2/2-1.md)
@@ -12,8 +15,7 @@
     * [Combine with System::String](/doc/Ch4/4-3.md)
 5. GUI components
     * [Add components by toolbox ](/doc/Ch5/5-1.md)
-    * Property 
-    * Naming style
+    * [Edit Property](/doc/Ch5/5-2.md)
 6. Customized components
     * Custom control
     * Custom property
