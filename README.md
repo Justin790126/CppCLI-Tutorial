@@ -13,7 +13,7 @@
     * [Debug tools](/doc/Ch4/4-1.md)
     * [Create your own Logger](/doc/Ch4/4-2.md)
     * [Combine with System::String](/doc/Ch4/4-3.md)
-5. GUI components
+5. GUI components(/doc/Ch5/5-0.md)
     * [Add components by toolbox ](/doc/Ch5/5-1.md)
     * [Edit Property](/doc/Ch5/5-2.md)
     * [Event](/doc/Ch5/5-3.md)
