@@ -17,8 +17,12 @@
     * [Add components by toolbox ](/doc/Ch5/5-1.md)
     * [Edit Property](/doc/Ch5/5-2.md)
     * [Event](/doc/Ch5/5-3.md)
-6. Customized components
-    * Custom control
+6. Forms interaction
+    * [Form open another form](/doc/Ch6/6-1.md)
     * Custom property
-7. External Library
+    * Custom event
+7. Common GUI component
+8. Customized components
+    * Custom control
+9. External Library
     * How to use C# library
