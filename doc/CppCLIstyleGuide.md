@@ -53,6 +53,23 @@ for example:
         
     private:
         System::String^ _version = "1.9.2";   
+		
+## Delegate
+
+First name should be **Del_**.
+
+Example:
+````
+delegate void Del_MyCallback(String^ str);  
+````
+
+Deleagate variable should be named as **del_** + doSomething
+
+Example:
+````
+MyCallback^ del_callback = gcnew MyCallback(SomeClass::Func);
+````
+
     
 ### Others:
 
