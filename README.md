@@ -15,8 +15,8 @@
     * [Combine with System::String](/doc/Ch4/4-3.md)
 5. [GUI components](/doc/Ch5/5-0.md)
     * [Add components by toolbox ](/doc/Ch5/5-1.md)
-    * [Edit Property](/doc/Ch5/5-2.md)
-    * [Event](/doc/Ch5/5-3.md)
+    * [Edit property](/doc/Ch5/5-2.md)
+    * [Add event](/doc/Ch5/5-3.md)
 6. Forms interaction
     * [Form open another form](/doc/Ch6/6-1.md)
     * [Custom property](/doc/Ch6/6-2.md)
