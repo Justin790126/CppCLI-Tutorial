@@ -21,7 +21,7 @@
     * [Form open another form](/doc/Ch6/6-1.md)
     * [Custom property](/doc/Ch6/6-2.md)
     * [Custom event](/doc/Ch6/6-3.md)
-7. Customized components
-    * Custom control
+7. [Customized components](/doc/Ch7/7-1.md)
+    * [Custom control](/doc/Ch7/7-1.md)
 8. External Library
     * How to use C# library
