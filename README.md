@@ -20,7 +20,7 @@
 6. Forms interaction
     * [Form open another form](/doc/Ch6/6-1.md)
     * [Custom property](/doc/Ch6/6-2.md)
-    * Custom event
+    * [Custom event](/doc/Ch6/6-3.md)
 7. Common GUI component
 8. Customized components
     * Custom control
