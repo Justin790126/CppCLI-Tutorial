@@ -9,7 +9,7 @@
     * [First GUI](/doc/Ch2/2-2.md)
 3. Object notation
     * [Object reference](/doc/Ch3/3-1.md)
-4. Debug
+4. Debug(/doc/Ch4/4-0.md)
     * [Debug tools](/doc/Ch4/4-1.md)
     * [Create your own Logger](/doc/Ch4/4-2.md)
     * [Combine with System::String](/doc/Ch4/4-3.md)
