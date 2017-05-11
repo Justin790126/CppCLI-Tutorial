@@ -16,6 +16,7 @@
 5. GUI components
     * [Add components by toolbox ](/doc/Ch5/5-1.md)
     * [Edit Property](/doc/Ch5/5-2.md)
+    * [Event](/doc/Ch5/5-3.md)
 6. Customized components
     * Custom control
     * Custom property
