@@ -70,7 +70,21 @@ Example:
 MyCallback^ del_callback = gcnew MyCallback(SomeClass::Func);
 ````
 
+## Event
+
+First character of event should be **capital**.
+
+Example: declaration
+````
+delegate void Del_MyCallback(String^ str);  
+
+ref class Test {
+    event Del_MyCallback^ MyCallBackStart;
     
+    ......
+}
+````
+
 ### Others:
 
 Please follow [Google C++ Style]
